@@ -16,7 +16,7 @@ github_repo: "SupraCoderBlog"
 # Note: leave out the trailing / from this value. 
 
 #url: "https://vanhp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://vanhp.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.vanhp.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
